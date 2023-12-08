@@ -1,0 +1,8 @@
+User sees a list of articles
+User picks an article by its id
+User gets a pdf receipt/invoice after buying the article if it is in stock
+
+Classes:
+User
+Article
+Pdf invoice
